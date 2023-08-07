@@ -7,7 +7,7 @@ It is very important because it serves as the back-end base of other projects:
 HTML/CSS templating, database storage, API, front-end integration…
 
 ![AirBnB Logo](https://www.pngitem.com/pimgs/m/132-1322125_transparent-background-airbnb-logo-hd-png-download.png)
-!AlxAfrica Logo](https://github.com/AflaxCade/AirBnB_clone/blob/main/hBnB.png?raw=true)
+!AlxAfrica Logo](https://github.com/AflaxCade/AirBnB_clone/blob/main/hBnB.png)
 
 
 # Synopsis

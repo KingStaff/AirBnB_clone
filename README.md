@@ -8,6 +8,8 @@ HTML/CSS templating, database storage, API, front-end integration…
 
 ![AirBnB Logo](https://github.com/AflaxCade//AirBnB_clone/blob/main/hBnB.png?raw=true)
 
+![Alx Logo](https://github.com/AflaxCade//AirBnB_clone/blob/main/alx.png?raw=true)
+
 
 # Synopsis
 
